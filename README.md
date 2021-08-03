@@ -29,8 +29,6 @@ Es una biblioteca de animaciones entre navegadores listas para usar en sus proye
 Prueba de interfaz - Responsive Desing 
 ---
 
-**Sitio web: Resizer [Entra aquí](https://material.io/resources/resizer/#url=https%3A%2F%2Fkeysel.github.io%2FInfiniteCode%2F) y prueba tus sitios responsive.**
-
 <img src="imagenes/ResposiceDesing.png">
 
 
